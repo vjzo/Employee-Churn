@@ -12,7 +12,7 @@ LR, Kernel SVM, RF and GB were all applied to the sampled data and the model per
 
 Parameter tuning was carried out.
 
-This repository is based on the work of Randy Lao & Anirudh Panthula. I have modified and added EDA, Machine Learning Techniques, Feature Scaling and Parameter tuning.
+This repository is based on the work of Anirudh Panthula. I have modified and added EDA, Machine Learning Techniques, Feature Scaling and Parameter tuning.
 
 Table of Contents
 
