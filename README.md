@@ -22,13 +22,15 @@ Exploratory Data Analysis
 
 EDA 1. Distribution of Satisfaction, Evaluation and Project count
 
-EDA 2. K-Means Clustering of employee turnover
+EDA 2. K-Means Clustering of Employee Churn
 
-EDA 3. Employee Satisfaction
+EDA 3. Identifying Cluster Properties
 
-EDA 4. Employee Project Count
+EDA 4. Employee Satisfaction
 
-EDA 5. Employee Department Distribution
+EDA 5. Employee Project Count
+
+EDA 6. Employee Department Distribution
 
 Data Preprocessing
 
