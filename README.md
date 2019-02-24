@@ -8,7 +8,7 @@ Using H.R data of a company to analyze and predict employee churn.
 
 SMOTE sampling technique is used to upsample the data. Using the sampled data, different machine learning algorithms have been implemented.
 
-LR, Kernel SVM, RF and GB were all applied to the sampled data and the model performance was evaluated on AUC.
+LR, SVM, RF and GB, Naive Bayes, KNN were all applied to the sampled data and the model performance was evaluated on AUC.
 
 Parameter tuning was carried out.
 
@@ -28,9 +28,7 @@ EDA 3. Identifying Cluster Properties
 
 EDA 4. Employee Satisfaction
 
-EDA 5. Employee Project Count
-
-EDA 6. Employee Department Distribution
+EDA 5. Employee Department Distribution
 
 Data Preprocessing
 
@@ -40,7 +38,7 @@ Sacling the data sets
 
 Data Balancing
 
-Applying different Machine Learning algorithms (Logistic Regression, SVM, Random Forests, Gradient Boosting)
+Applying different Machine Learning algorithms (Logistic Regression, SVM, Random Forests, Gradient Boosting, Naive Bayes, KNN)
 
 Evaluating based on ROC and AUC and AIC/BIC
 
