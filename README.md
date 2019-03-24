@@ -40,7 +40,7 @@ Data Balancing
 
 Applying different Machine Learning algorithms (Logistic Regression, SVM, Random Forests, Gradient Boosting, Naive Bayes, KNN)
 
-Evaluating based on ROC and AUC and AIC/BIC
+Evaluating based on ROC and AUC
 
 Conclusion
 
